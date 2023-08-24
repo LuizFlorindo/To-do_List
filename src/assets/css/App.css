@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+
+  text-decoration: none;
+  list-style: none;
+
+  box-sizing: border-box;
+}
+
+.app{
+  max-width: 600px;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 20px 30px;
+  background-color: #efefef;
+}
